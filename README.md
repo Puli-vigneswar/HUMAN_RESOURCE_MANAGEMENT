@@ -11,3 +11,7 @@ SKILLS TAKEAWAY
 -OS
 -DATA VISUALIZATION 
 
+![Slide1](https://github.com/Puli-vigneswar/HUMAN_RESOURCE_MANAGEMENT/assets/152149277/1aeae24c-449b-4dbc-b90e-065a5c233499)
+
+
+
